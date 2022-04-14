@@ -8,7 +8,7 @@ I learned a lot while making this calculator. I learned about the basics of GUI 
 ## Description 
 NizCalc is a regular calculator application. It can be used to perform regular tasks. The calculator have both simple and scientific mode. I also contains Trigonometric functions, Inverse Trigonometric functions, Hyperbola Trigonometric functions and Inverse Hyperbola Trigonometric functions. There is also a unit to unit conversion mode. I also included the L.C.M and H.C.F finding as I found that it is missing in most of the calculators I use. \
 I used Python and TKinter for this application. I used Python and TKinter as they are beginner friendly and back the when I was developing this application, I was a complete beginner. But Python is a vert powerful programming language to work with as it is really very versatile. And for calculator, I like a clean and simple GUI so I used TKinter.\
-I want to some features like dynamic unit to unit conversion and currency conversion in future as I am now really busy with other projects and I don't think that I now remember most of the code. \
+I want to some features like dynamic unit to unit conversion and currency conversion in future as I am now really busy with other projects and I don't think that I now remember most of the code. 
 
 ## Installation
 If somehow you want to install it in your own machine, make sure that you are running a Windows machine or else it may throw a bunch a errors as I did not tested the application in any other Operating system other than Windows.\
@@ -18,5 +18,5 @@ And if you are curious about how this application works, then have a look in the
 
 ## Credits
 Obhiously I did not made this on my own, I followed a bunch of tutorials and documentations. 
-I mostly followed the **TKinter Playlist** of **Codemy.com** in YouTube. *Link: https://www.youtube.com/watch?v=yQSEXcf6s2I&list=PLCC34OHNcOtoC6GglhF3ncJ5rLwQrLGnV * \
+I mostly followed the **TKinter Playlist** of **Codemy.com** in YouTube. Link: https://www.youtube.com/watch?v=yQSEXcf6s2I&list=PLCC34OHNcOtoC6GglhF3ncJ5rLwQrLGnV \
 His channel contains a lot of good stuffs. If you are trying to learn TKinter, make sure to follow his website. Cool Stuff!
