@@ -18,5 +18,5 @@ And if you are curious about how this application works, then have a look in the
 
 ## Credits
 Obhiously I did not made this on my own, I followed a bunch of tutorials and documentations. 
-I mostly followed the **TKinter Playlist** of **Codemy.com** in YouTube. *Link: https://www.youtube.com/watch?v=yQSEXcf6s2I&list=PLCC34OHNcOtoC6GglhF3ncJ5rLwQrLGnV*\
-His channel contains a lot of good stuffs. If you are trying to learn TKinter, make sure to follow his website. Cool Stuff!\
+I mostly followed the **TKinter Playlist** of **Codemy.com** in YouTube. *Link: https://www.youtube.com/watch?v=yQSEXcf6s2I&list=PLCC34OHNcOtoC6GglhF3ncJ5rLwQrLGnV * \
+His channel contains a lot of good stuffs. If you are trying to learn TKinter, make sure to follow his website. Cool Stuff!
