@@ -22,7 +22,7 @@ I mostly followed the **TKinter Playlist** of **Codemy.com** in YouTube. Link: h
 His channel contains a lot of good stuffs. Make sure to follow his channel if you are learning TKinter. He really got some cool stuff there.
 
 ## Some Last Words
-As this application is created by a 9 year old kid, there are definitely some bugs. I would really appreciate if someone informs me those. I will try my best to fix them. 
-Again, this is obviously not the perfect calculator application, but it works at least for me. So, if you want to add something or edit something, the raw code is sitting right there, waiting for you. You are really welcome to edit that and distribute that. Make sure to give me the credit though. 
-Sorry Linux or MAC users, it doesn't work for you. I am too lazy to do it. Do it if you want. 
+As this application is created by a 9 year old kid, there are definitely some bugs. I would really appreciate if someone informs me those. I will try my best to fix them. \
+Again, this is obviously not the perfect calculator application, but it works at least for me. So, if you want to add something or edit something, the raw code is sitting right there, waiting for you. You are really welcome to edit that and distribute that. Make sure to give me the credit though. \
+Sorry Linux or MAC users, it doesn't work for you. I am too lazy to do it. Do it if you want. \
 Pardon my mistakes if I made any. Have fun! 
