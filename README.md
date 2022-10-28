@@ -17,6 +17,6 @@ If you just want the `.exe` or the files of exe, then have a look in `-onedir` f
 And if you are curious about how this application works, then have a look in the `Source Code` folder. All the source code used for this application is sitting right there.
 
 ## Credits
-Obhiously I did not made this on my own, I followed a bunch of tutorials and documentations. 
+Obviously I did not made this on my own, I followed a bunch of tutorials and documentations. 
 I mostly followed the **TKinter Playlist** of **Codemy.com** in YouTube. Link: https://www.youtube.com/watch?v=yQSEXcf6s2I&list=PLCC34OHNcOtoC6GglhF3ncJ5rLwQrLGnV \
-His channel contains a lot of good stuffs. If you are trying to learn TKinter, make sure to follow his website. Cool Stuff!
+His channel contains a lot of good stuffs. Make sure to follow his channel if you are learning TKinter. He really got some cool stuff there.
