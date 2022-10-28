@@ -2,7 +2,7 @@
 
 ## Overview
 Hello There! I am Sabil Islam\
-I made this calculator application at the age of 9 with the help of Python, TCL and TKinter. Back then, I just started programming and in the same time I was getting interested towards advanced mathematical problems. I was having trouble using Microsoft Calculator, so I thought that, "why don't I make my own one!" So I started making my own calculator and made one in 3 months. \
+I made this calculator application at the age of 9 with the help of Python, TCL and TKinter. Back then, I just started programming and in the same time I was getting interested towards mathematics. I was having trouble using Microsoft Calculator, so I thought that, "why don't I make my own one!" So I started making my own calculator and made one in 3 months. \
 I learned a lot while making this calculator. I learned about the basics of GUI programming and the basic mechanics of GUI applications. It was a really fun project to do for a 9 year old kid. I realized the beauty of of mathematics while making this; I quit complaining about other applications as I found that developing an application is not an easy task. It increased my respect for software engineers a lot of times. 
 
 ## Description 
